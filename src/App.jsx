@@ -27,7 +27,6 @@ export default function RakshitTerminal() {
       { category: "DevOps", items: ["Docker", "AWS", "CI/CD", "Linux/Bash"] }
     ],
     projects: [
-      {
        {
   name: "Blog Site",
   description: "A responsive blog platform with user authentication, post creation, and comment features.",
