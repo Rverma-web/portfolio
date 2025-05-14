@@ -28,23 +28,25 @@ export default function RakshitTerminal() {
     ],
     projects: [
       {
-        name: "E-commerce Platform",
-        description: "A full-stack e-commerce solution with product management, cart functionality, and payment processing.",
-        tech: "React, Node.js, MongoDB, Stripe",
-        link: "https://github.com/username/ecommerce"
-      },
-      {
-        name: "Task Management App",
-        description: "A Kanban-style task management application with real-time updates and team collaboration features.",
-        tech: "React, Firebase, Material UI",
-        link: "https://github.com/username/task-app"
-      },
-      {
-        name: "Data Visualization Dashboard",
-        description: "Interactive dashboard for visualizing complex datasets with filtering and export capabilities.",
-        tech: "React, D3.js, Express, PostgreSQL",
-        link: "https://github.com/username/data-viz"
-      }
+       {
+  name: "Blog Site",
+  description: "A responsive blog platform with user authentication, post creation, and comment features.",
+  tech: "Django, Bootstrap",
+  link: "https://github.com/username/blog-site"
+},
+{
+  name: "Skin Cancer Prediction",
+  description: "A web app that uses deep learning to predict skin cancer from images, with user-friendly interface for uploading and viewing results.",
+  tech: "TensorFlow, Django",
+  link: "https://github.com/username/skin-cancer-prediction"
+},
+{
+  name: "Social Media Platform",
+  description: "A full-stack social media application with user profiles, real-time feeds, likes, and comments.",
+  tech: "React, Node.js, MongoDB, Tailwind CSS",
+  link: "https://github.com/username/social-media"
+}
+
     ],
     experience: [
       {
