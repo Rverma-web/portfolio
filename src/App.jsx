@@ -67,10 +67,9 @@ export default function RakshitTerminal() {
       }
     ],
     contact: {
-      email: "john.doe@example.com",
-      github: "github.com/johndoe",
-      linkedin: "linkedin.com/in/johndoe",
-      twitter: "@johndoe"
+      email: "rakshitv2021@gmail.com",
+      github: "https://github.com/rakshverma",
+      linkedin: "https://www.linkedin.com/in/rakshit-verma-472654313",
     }
   };
 
