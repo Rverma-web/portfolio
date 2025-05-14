@@ -498,7 +498,7 @@ export default function RakshitTerminal() {
           <h3 className="text-green-400 font-bold mb-2">Quick Commands</h3>
           <QuickCommands />
           <p className="text-xs text-gray-400 mt-2">
-            Click a button above or type a command below. Try 'help' to see all available commands.
+            Type a command below. Try 'help' to see all available commands.
           </p>
         </div>
       )}
